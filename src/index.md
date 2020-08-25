@@ -1,4 +1,8 @@
+EXTERNAL EDIT TEST
+
 ---
+
+
 layout: default
 title:  JavaScript 入門指南
 nav_order: 1
